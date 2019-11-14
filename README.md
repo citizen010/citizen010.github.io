@@ -1,5 +1,6 @@
 # GitHub Pages - citizen010.github.io
 <h2>About</h2>
+Empty content - future release 
 <p></p>
 <h2>Preview</h2>
 <p><a href="https://citizen010.github.io">Live preview</a></p>
