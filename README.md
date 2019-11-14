@@ -1,4 +1,4 @@
-# GitHun Pages - citizen010.github.io
+# GitHub Pages - citizen010.github.io
 <h2>About</h2>
 <p></p>
 <h2>Preview</h2>
