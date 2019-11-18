@@ -6,3 +6,7 @@ Empty content - future release
 
 ## Preview ##
 [Live Preview](https://citizen010.github.io)
+
+{{< note >}}
+This is a sample note.
+{{< /note >}}
