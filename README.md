@@ -7,6 +7,6 @@ Empty content - future release
 ## Preview ##
 [Live Preview](https://citizen010.github.io)
 
-< note >
+{ note }
 This is a sample note.
-< /note >
+{ /note }
