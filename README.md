@@ -19,4 +19,4 @@ citizen010.github.io
 
 ## Contact
 #### Developer
-* Homepage: (https://github.com/citizen010)
+* Homepage: [Citizen010](https://github.com/citizen010)
