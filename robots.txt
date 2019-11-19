@@ -1,0 +1,3 @@
+# This tells all robots to stay out of the website
+User-agent: *
+Disallow: /
