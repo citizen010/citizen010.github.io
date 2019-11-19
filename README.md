@@ -5,7 +5,7 @@ citizen010.github.io
 **citizen010.github.io** is my personal/project website.
 
 ## Preview ##
-[Live Preview](https://citizen010.github.io)
+[Live Preview](https://citizen010.github.io) - still empty
 
 ## Domains
 * see [CNAME](https://github.com/citizen010/citizen010.github.io/blob/master/CNAME) file
