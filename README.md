@@ -18,7 +18,5 @@ citizen010.github.io
 * [robots.txt](https://github.com/citizen010/citizen010.github.io/blob/master/robots.txt)
 
 ## Contact
-#### Developer/Projects spokesman
-* Homepage: 
-* e-mail: 
-* Twitter: [@italiansatoshi](https://twitter.com/italansatoshi "italiansatoshi")
+#### Developer
+* Homepage: (https://github.com/citizen010)
