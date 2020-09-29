@@ -5,7 +5,7 @@
 List of my personal/project websites.
 
 ## Preview ##
-[Live Preview](https://citizen010.github.io)
+[Live View](https://citizen010.github.io)
 
 ## Domains
 * see [CNAME](https://github.com/citizen010/citizen010.github.io/blob/master/CNAME) file
