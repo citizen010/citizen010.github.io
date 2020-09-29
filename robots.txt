@@ -1,4 +1,5 @@
 # This tells all robots to stay out of this website
 User-agent: *
+Allow: /
 Disallow: /css/
 Disallow: /img/
