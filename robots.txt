@@ -1,4 +1,4 @@
-# This tells all robots to stay out of this website
+# This tells all robots to stay out of /css/ and /img/ dirs, but read /
 User-agent: *
 Allow: /
 Disallow: /css/
