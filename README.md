@@ -8,7 +8,7 @@ List of my personal/project websites.
 [Live View](https://citizen010.github.io)
 
 ## Domains
-* see [CNAME](https://github.com/citizen010/citizen010.github.io/blob/master/CNAME) file - no associated domain
+* see [CNAME](https://github.com/citizen010/citizen010.github.io/blob/master/CNAME) file - no associated domain yet
 
 ## Technology
 * CSS Framework, [Bootstrap](https://getbootstrap.com/)
