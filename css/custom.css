@@ -1,0 +1,49 @@
+body {
+    background: left top no-repeat url('../img/line.png') whitesmoke;
+    opacity: 0.9;
+    color: black;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer-heading {
+    font-size: 16px;
+    font-weight: 600;
+    color: #343a40;
+}
+
+.footer-item {
+    line-height: 30px;
+}
+
+.footer-item a {
+    color: lightgrey;
+    font-weight: 400;
+}
+
+.footer-item a:hover {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.text-orange {
+    color: orange;
+}
+
+.menu-text {
+    font-weight: 600;
+    color: lightslategray;
+}
+
+.project-text {
+    margin: 10px 10px 30px 10px;
+    padding: 20px;
+    background-color: whitesmoke;
+    color: lightslategray;
+    text-align: center;
+}
+
+.project-title {
+    color: #5a5a5a;
+    font-weight: 600;
+}
