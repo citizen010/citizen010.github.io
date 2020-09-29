@@ -1,9 +1,5 @@
 ![MIT license](https://img.shields.io/badge/license-MIT-blue)
 
-# citizen010.github.io
-
-List of my personal/project websites.
-
 ## Preview ##
 [Live View](https://citizen010.github.io)
 
