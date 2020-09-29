@@ -2,7 +2,7 @@
 
 # citizen010.github.io
 
-**citizen010.github.io** is my personal/project website.
+List of my personal/project websites.
 
 ## Preview ##
 [Live Preview](https://citizen010.github.io)
